@@ -25,3 +25,5 @@ In your terminal after you clone your project down, remember to run either `yarn
 1. Instructor explains the package.json and lock files
 2. Also how to troubleshoot errors, as in npm i node-sass, like we needed earlier
 3. ServiceWorker.js - mainly used for progressive web app, allows us to makeour app progressive.
+
+##
